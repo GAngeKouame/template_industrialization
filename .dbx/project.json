@@ -1,0 +1,9 @@
+{
+  "environments": {
+    "default": {
+      "profile": "DEFAULT",
+      "workspace_dir": "/Shared/dbx/my_project",
+      "artifact_location": "dbfs:/Shared/dbx/projects/my_project"
+    }
+  }
+}
