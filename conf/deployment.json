@@ -6,7 +6,7 @@
                 "new_cluster": {
                     "spark_version": "7.3.x-cpu-ml-scala2.12",
                     "node_type_id": "Standard_F4s",
-                    "num_workers": 2
+                    "num_workers": 3
                 },
                 "libraries": [],
                 "email_notifications": {
