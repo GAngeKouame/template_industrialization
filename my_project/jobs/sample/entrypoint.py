@@ -126,7 +126,7 @@ class MachineLearningModel(Job):
 
         #self.logger.info
 
-    def training_part(self):
+    def testing_part(self):
         predictions = self.model.transform(self.test)
         metric_names = ["accuracy", "weightedPrecision",
                         "weightedRecall", "logLoss"]
