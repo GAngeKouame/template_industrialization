@@ -4,3 +4,9 @@ pyspark==3.0.0
 pytest
 pytest-cov
 dbx
+mlflow
+numpy
+mlflow
+json
+abc
+logging
