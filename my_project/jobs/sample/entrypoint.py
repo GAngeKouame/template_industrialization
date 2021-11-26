@@ -1,4 +1,4 @@
-from template_industrialization.common import Job
+from my_project.common import Job
 
 
 #getting dbutils
